@@ -1,2 +1,2 @@
 # Projects-images
-I will use this repo as store of images for uses them in project.
+This repo stores images of my all projects, to take their addresses.
